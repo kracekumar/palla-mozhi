@@ -1,3 +1,0 @@
-[submodule "lib/jquery.ime"]
-path = lib/jquery.ime
-url = https://github.com/wikimedia/jquery.ime.git

@@ -1,9 +1,9 @@
 {
     "name": "palla-mozhi", 
-    "license": "MPL 2.0", 
-    "author": "", 
+    "license": "GPLV3.0", 
+    "author": "kracekumar", 
     "version": "0.1", 
     "fullName": "palla-mozhi", 
     "id": "jid1-o7gpOLhTkE5I4w", 
-    "description": "a basic add-on"
+    "description": "Firefox add-on for multilingual input. palla-mozhi is based on [jquery-ime](https://github.com/wikimedia/jquery.ime) which helps to override `<input type=text> & <textarea>` field to type multiple languages(50+)."
 }
